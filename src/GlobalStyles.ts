@@ -3,6 +3,8 @@ import { createGlobalStyle } from 'styled-components'
 export const GlobalStyle = createGlobalStyle`
   
   :root {
+    --white: white;
+    --light-blue: #2CF3F7;
     --background-color-primary: #E3F7FE;
   }
 
